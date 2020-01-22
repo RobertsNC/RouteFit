@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries">
+        <item>"Workout"</item>
+        <item>"Running"</item>
+    </string-array>
+    <string-array name="entry_values">
+        <item>"workout"</item>
+        <item>"run"</item>
+    </string-array>
+
+    <string-array name="looking_for_partner">
+        <item>"Looking For Buddy"</item>
+        <item>"Private"</item>
+    </string-array>
+    <string-array name="looking_for_partner_values">
+        <item>"0"</item>
+        <item>"1"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/white">
+
+    <PreferenceCategory
+        android:title="Settings">
+    </PreferenceCategory>
+
+
+    <ListPreference
+        android:key = "exercise_type_setting"
+        android:title="@string/runningWorkoutPartnerPreference"
+        android:entries="@array/entries"
+        app:useSimpleSummaryProvider="true"
+        android:entryValues="@array/entry_values"
+        android:defaultValue="workout"/>
+
+
+    <SwitchPreference
+        android:key="map_visibility_setting"
+        android:title="Map Visibility"
+        android:summaryOn="Shows your location on the map to other users"/>
+
+    <SwitchPreference
+        android:key="food_notification_setting"
+        android:title="Food Notifications"
+        android:summaryOn="Will send periodic food input reminders"/>
+
+    <Preference
+        app:key="feedback"
+        app:title="Send feedback"
+        app:summary="Report technical issues or suggest new features"/>
+
+
+</PreferenceScreen>

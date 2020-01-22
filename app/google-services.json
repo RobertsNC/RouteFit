@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "469405283531",
+    "firebase_url": "https://fitnessapp-cfe59.firebaseio.com",
+    "project_id": "fitnessapp-cfe59",
+    "storage_bucket": "fitnessapp-cfe59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469405283531:android:6a9efd6a596ec35b61574e",
+        "android_client_info": {
+          "package_name": "dal.cs.mc.routefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469405283531-87ncchb2o22d314tmfqmc8kt02tn29fr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dal.cs.mc.routefit",
+            "certificate_hash": "e73f5bef5861011782c5e4ee9780621f344b7c27"
+          }
+        },
+        {
+          "client_id": "469405283531-f8572p5chefaocrl937i3rj2so6qh6ts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dal.cs.mc.routefit",
+            "certificate_hash": "1193d02eb27a99eddda0022894e5d0b62d9fd618"
+          }
+        },
+        {
+          "client_id": "469405283531-l91j590toi6gdiojeniiaeo7qlvfrt2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dal.cs.mc.routefit",
+            "certificate_hash": "e569cefea197059b968709d90e946e5fdca79c54"
+          }
+        },
+        {
+          "client_id": "469405283531-c5fgvmeoidfbh6htja15r4ei9d6ldrrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC56TXxsY2oIQsK6IfeIcYsuV4zsrksvLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469405283531-c5fgvmeoidfbh6htja15r4ei9d6ldrrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
